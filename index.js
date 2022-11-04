@@ -92,7 +92,7 @@ const StudentInfo =[{
 },
 {
     Name: 'Rana sharma',
-    Roll: "20",
+    Roll:"20",
     Department: 'Computer Technology',
     City: {
         CurrentAddress: "Bharua khali",
